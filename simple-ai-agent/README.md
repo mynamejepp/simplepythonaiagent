@@ -1,1 +1,1 @@
-Simple AI Agent using Python
+Simple AI Agent using Python and Gemini 2.5 Flash
